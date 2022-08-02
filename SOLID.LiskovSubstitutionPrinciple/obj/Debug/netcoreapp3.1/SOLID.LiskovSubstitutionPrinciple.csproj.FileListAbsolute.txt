@@ -1,0 +1,14 @@
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.exe
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.deps.json
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.dll
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.pdb
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.dll
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.pdb
+C:\Users\Stefam\source\repos\SOLID\SOLID.LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\SOLID.LiskovSubstitutionPrinciple.genruntimeconfig.cache

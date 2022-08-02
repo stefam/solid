@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zGds/aSq9cPGz0TfVPLbZ2mT3d18elyQYj4j9V25md3/3q6EieJl+zQYaFzQYsLHvC6LCxI+lrPF6RUButiDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefam\\source\\repos\\SOLID\\SOLID.DependencyInversionPrinciple\\SOLID.DependencyInversionPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefam\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Stefam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Stefam\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

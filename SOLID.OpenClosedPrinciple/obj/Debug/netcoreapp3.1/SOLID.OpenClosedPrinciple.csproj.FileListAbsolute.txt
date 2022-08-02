@@ -1,0 +1,14 @@
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\bin\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.exe
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\bin\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.deps.json
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\bin\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.runtimeconfig.json
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\bin\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.runtimeconfig.dev.json
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\bin\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.dll
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\bin\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.pdb
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.dll
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.pdb
+C:\Users\Stefam\source\repos\SOLID\SOLID.OpenClosedPrinciple\obj\Debug\netcoreapp3.1\SOLID.OpenClosedPrinciple.genruntimeconfig.cache
