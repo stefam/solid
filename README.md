@@ -18,4 +18,10 @@ SOLID is an acronym for the first five object-oriented design principles:
 - High-level modules should not depend on low-level modules. Both should depend on abstractions.
 - Abstractions should not depend on details. Details should depend on abstractions.
 
-
+## Benefits of using SOLID
+- [x] Cleaner code
+- [x] Easier to test
+- [x] Easier to maintain
+- [x] Reusable
+- [x] Readable
+- [x] Extensible
