@@ -7,14 +7,15 @@ namespace SOLID.DependencyInversionPrinciple
     {
         static void Main(string[] args)
         {
-            IServiceCollection services = new ServiceCollection();
-            services.AddSingleton<IRepository, SqlServerRepository>();
+            // After
+            //IServiceCollection services = new ServiceCollection();
+            //services.AddSingleton<IRepository, SqlServerRepository>();
 
-            var serviceProvider = services.BuildServiceProvider();
-            var userController = serviceProvider.GetService<UserController>();
-            var user = userController.Get();
+            //var serviceProvider = services.BuildServiceProvider();
+            //var userController = serviceProvider.GetService<UserController>();
+            //var user = userController.Get();
 
-            Console.WriteLine(user);
+            //Console.WriteLine(user);
         }
     }
 }

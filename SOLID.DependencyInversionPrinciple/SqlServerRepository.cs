@@ -1,20 +1,20 @@
 ﻿namespace SOLID.DependencyInversionPrinciple
 {
     // Before
-    //public class SqlServerRepository
-    //{
-    //    public User GetUser()
-    //    {
-    //        return new User();
-    //    }
-    //}
-
-    // After
-    public class SqlServerRepository : IRepository
+    public class SqlServerRepository
     {
-        public T Get<T>()
+        public User GetUser()
         {
-            return ((T) new object { });
+            return new User();
         }
     }
+
+    // After
+    //public class SqlServerRepository : IRepository
+    //{
+    //    public T Get<T>()
+    //    {
+    //        return ((T) new object { });
+    //    }
+    //}
 }
